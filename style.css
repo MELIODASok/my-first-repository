@@ -1,11 +1,16 @@
-.body{
-margin: 15px;
-background-color: gold;
-flex-direction: column;
-align-items: center;
+.fon{
+width: 600px;
+height: 300px;
+background-color: blue;
+margin: 0 auto;
 }
-.spisok{
-background-color: black;
-
-
-}
+.fon,ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+    }
+.fon,ul,li{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        }
